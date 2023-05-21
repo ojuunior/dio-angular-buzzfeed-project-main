@@ -1,0 +1,32 @@
+@media screen and (max-width: 530px) {
+  .quizz__logo > img {
+    width: 100%;
+  }
+
+  .quizz__logo > h3 {
+    margin-top: 6vw;
+    font-size: 3.6vw;
+  }
+
+  .quizz__questions {
+    height: 38vw;
+    font-size: 3.8vw;
+  }
+  .btn-option {
+    font-size: 5vw;
+  }
+  .quizz__results {
+    font-size: 3.5vw;
+    height: 250px;
+  }
+}
+@media screen and (max-width: 340px) {
+  .quizz__options {
+    flex-direction: column;
+  }
+
+  .btn-option {
+    width: 100%;
+    font-size: 5vw;
+  }
+}
