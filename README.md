@@ -35,8 +35,9 @@ Gostaria de agradecer à DIO por fornecer um bootcamp incrível e inspirador, qu
 
 Se você tiver alguma dúvida ou quiser entrar em contato, pode me encontrar nas seguintes redes sociais:
 
-- LinkedIn: Mailton Junior(https://www.linkedin.com/in/mailton-junior/)
+- LinkedIn: [Mailton Junior](https://www.linkedin.com/in/mailton-junior/)
 
 Espero que você se divirta explorando este projeto tanto quanto eu me diverti desenvolvendo!
 
-🔗 [Link para o projeto no GitHub](link-do-seu-repositorio)
+🔗 [Link para o repositório no GitHub](https://github.com/ojuunior/dio-angular-buzzfeed-project-main/)
+🔗 [Link para o acessar o projeto](https://dio-angular-buzzfeed-project-main.vercel.app/)
